@@ -26,9 +26,9 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = ` ┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
-┃⭐ Creador : Readz Aleizn
-┃📞 Wa.me/51992621601
-┃https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
+┃⭐ Creador : ᴘᴅᴀ   ʙᴏᴛ
+┃📞 Wa.me/528130533518
+┃https://www.instagram.com/idk_a_normal_user?igsh=MXdnbTQ3eGlsdTFkNA==
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 
 

@@ -1,5 +1,5 @@
 {
-  "name": "Readz Aleizn",
+  "name": "ᴘᴅᴀ   ʙᴏᴛ",
   "version": "1.0.0",
   "description": "Un chatbot automatizado para WhatsApp basado en Node.js, que permite realizar múltiples funciones y personalizaciones en la plataforma.",
   "main": "index.js",
@@ -16,16 +16,16 @@
     "eslint": "eslint .",
     "eslintfix": "eslint --fix ."
   },
-  "homepage": "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
+  "homepage": "https://www.instagram.com/idk_a_normal_user?igsh=MXdnbTQ3eGlsdTFkNA==",
   "author": {
     "name": "BrunoSobrino"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY.git"
+    "url": "git+https://www.instagram.com/idk_a_normal_user?igsh=MXdnbTQ3eGlsdTFkNA==.git"
   },
   "bugs": {
-    "url": "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY/issues"
+    "url": "https://www.instagram.com/idk_a_normal_user?igsh=MXdnbTQ3eGlsdTFkNA==/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {

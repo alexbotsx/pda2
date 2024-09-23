@@ -1,4 +1,4 @@
-// Codigo hecho para Readz Aleizn - MD por https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY
+// Codigo hecho para ᴘᴅᴀ   ʙᴏᴛ - MD por https://www.instagram.com/idk_a_normal_user?igsh=MXdnbTQ3eGlsdTFkNA==
 // By @BrunoSobrino
 import axios from 'axios';
 const { proto, generateWAMessageFromContent, generateWAMessageContent } = (await import("baileys")).default;
